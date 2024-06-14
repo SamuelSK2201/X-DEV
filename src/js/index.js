@@ -1,6 +1,6 @@
 setTimeout(function() {
     alert('Seja Bem-Vindo');
-    }, 5000);
+    }, 1000);
 
 const btnAvancar = document.getElementById("btn-avancar");
 const btnVoltar = document.getElementById("btn-voltar");
